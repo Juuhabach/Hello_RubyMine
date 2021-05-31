@@ -3,6 +3,7 @@
 require_relative "Hello_RubyMine/version"
 
 module HelloRubyMine
-  class Error < StandardError; end
-  # Your code goes here...
+  def self.greet(name)
+    puts "Olá, #{name}! Eu sou Ruby!"
+  end
 end
