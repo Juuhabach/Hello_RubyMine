@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["173709@upf.br"]
 
   spec.summary       = "%q{Um exemplo simples de Ruby gem.}"
-  spec.description   = "TODO: Write a longer description or delete this line."
+  spec.description   = "Write a longer description or delete this line."
   spec.homepage      = "https://github.com/Juuhabach/Hello_RubyMine"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 3.0")
